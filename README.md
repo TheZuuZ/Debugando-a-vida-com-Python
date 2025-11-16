@@ -1,6 +1,7 @@
 # Debugando-a-vida-com-Python
 preview de ebook
 Projeto EBOOK Gerado por I.A.s
+
 ℹ️ NOTE: Este é o repositório desenvolvido durante o curso de Fundamentos de I.A Generativa na DIO
 
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts seguem abaixo.
